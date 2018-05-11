@@ -2,7 +2,7 @@
 
 ## Why ?
 
-On a WordPress Multisite you will most likely point to a single privacy policy page using the `privacy_policy_url` or `the_privacy_policy_link` filters, and hence you don't want to display the `Settings->Policy` page on each subsite/wp-admin.
+On a WordPress Multisite you will most likely point to a single privacy policy page using the `privacy_policy_url` or `the_privacy_policy_link` filters, and hence you don't want to display the `Settings->Policy` page in each subsite.
 
 ### Sidenote
 
